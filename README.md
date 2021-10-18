@@ -12,7 +12,6 @@
   </p>
   
   <h4>Bibliotecas Utilizadas</h4>
-  <a href="https://www.npmjs.com/package/react-scroll" target="_blank" rel="external">React Scroll</a></br>
   <a href="https://styled-components.com" target="_blank" rel="external">Styled Components</a></br>
   
 
